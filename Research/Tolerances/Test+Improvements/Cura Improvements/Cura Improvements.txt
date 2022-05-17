@@ -1,0 +1,20 @@
+Reference Website: https://www.3dv.com/3dv-3d-Printing-Blog/How-to-increase-print-accuracy-on-the-Ultimaker-2-and-3-using-Cura
+
+
+After printing the Tolerance board, I found discrepancies in the Test as shown in the table below:
+
+
+
+
+
+
+Semi-Circle:After averaging the values, I received a approximate margin of error of about (INSERT ERROR HERE) 
+
+Square:
+
+Circle:
+
+Hexagon:
+
+
+
